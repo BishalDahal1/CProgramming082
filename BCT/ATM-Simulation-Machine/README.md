@@ -5,7 +5,7 @@
 <h2>Team Members </h2>
 <ul>
   <li>Bishal Dahal</li>
-  <li>AayushnNeupane</li>
+  <li>Aayush Neupane</li>
   <li>Pranjal Dahal</li>
   <li>Paritosh Ghimire</li>
 </ul>
